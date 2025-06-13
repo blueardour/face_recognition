@@ -1,0 +1,15 @@
+
+.vscode
+.python-version
+
+weights
+examples
+cfg
+
+*.swn
+*.swo
+*.swp
+*..pyc
+*.so
+*.a
+
